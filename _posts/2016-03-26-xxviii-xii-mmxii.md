@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T22:13:15.281Z'
-dateModified: '2016-03-26T22:12:48.924Z'
+datePublished: '2016-03-26T22:29:40.065Z'
+dateModified: '2016-03-26T22:29:22.107Z'
 author: []
 title: XXVIII XII MMXII
 sourcePath: _posts/2016-03-26-xxviii-xii-mmxii.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # XXVIII XII MMXII
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ada7580-cf31-4f4e-9cec-4673acefb539.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd83eb47-6599-4a6a-9211-334f6fd8351c.jpg)
