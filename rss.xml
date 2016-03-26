@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cosmo]]></title>
+        <description><![CDATA[Cosmo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 23:27:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[XXVIII XII MMXII]]></title>
+            <description><![CDATA[<article><h1>XXVIII XII MMXII</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd83eb47-6599-4a6a-9211-334f6fd8351c.jpg"></article>]]></description>
+            <link>urn:uuid:36ed5cbc-9300-4eb8-a9b0-caadf8440e45</link>
+            <guid isPermaLink="false">b2827e5f-540a-4701-b7b1-012f68b8b756</guid>
+            <pubDate>Sat, 26 Mar 2016 23:27:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
