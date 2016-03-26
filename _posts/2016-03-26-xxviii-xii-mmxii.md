@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:36ed5cbc-9300-4eb8-a9b0-caadf8440e45'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-26T18:27:44.216Z'
+dateModified: '2016-03-26T18:27:37.679Z'
 author: []
-datePublished: '2016-03-26T10:16:26.648Z'
-publisher:
-  domain: ''
-  name: ''
 title: XXVIII XII MMXII
-dateModified: '2016-03-26T10:15:51.704Z'
 sourcePath: _posts/2016-03-26-xxviii-xii-mmxii.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: xxviii-xii-mmxii/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
