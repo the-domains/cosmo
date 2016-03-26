@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[COSMO]]></title>
         <description><![CDATA[COSMO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cosmo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 10:17:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 18:27:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cosmo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[XXVIII XII MMXII]]></title>
             <description><![CDATA[<article><h1>XXVIII XII MMXII</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ada7580-cf31-4f4e-9cec-4673acefb539.png"></article>]]></description>
-            <link>undefinedxxviii-xii-mmxii/index.html</link>
+            <link>urn:uuid:36ed5cbc-9300-4eb8-a9b0-caadf8440e45</link>
             <guid isPermaLink="false">b2827e5f-540a-4701-b7b1-012f68b8b756</guid>
-            <pubDate>Sat, 26 Mar 2016 10:16:26 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 18:27:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
