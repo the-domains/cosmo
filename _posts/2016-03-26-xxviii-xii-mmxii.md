@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T18:27:44.216Z'
-dateModified: '2016-03-26T18:27:37.679Z'
+datePublished: '2016-03-26T22:13:15.281Z'
+dateModified: '2016-03-26T22:12:48.924Z'
 author: []
 title: XXVIII XII MMXII
 sourcePath: _posts/2016-03-26-xxviii-xii-mmxii.md
