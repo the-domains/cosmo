@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:36ed5cbc-9300-4eb8-a9b0-caadf8440e45'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-27T02:38:56.254Z'
-dateModified: '2016-03-27T02:32:54.380Z'
+datePublished: '2016-03-27T02:41:58.261Z'
+dateModified: '2016-03-27T02:41:31.340Z'
 author: []
 title: XXVIII XII MMXII
 sourcePath: _posts/2016-03-26-xxviii-xii-mmxii.md
@@ -23,5 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# XXVIII XII MMXII
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd83eb47-6599-4a6a-9211-334f6fd8351c.jpg)
+
+XXVIII XII MMXII
