@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-27T01:27:12.935Z'
-dateModified: '2016-03-27T01:27:12.215Z'
+datePublished: '2016-03-27T05:23:49.475Z'
+dateModified: '2016-03-27T01:43:07.911Z'
 title: Size Matters
 author: []
 authors: []
