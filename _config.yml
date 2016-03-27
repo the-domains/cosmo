@@ -1,11 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: COSMO
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.9426523
+title: Cosmo
 collections:
   - index:
       path: /
@@ -18,24 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-title: Cosmo
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5232975
-  brandStrength: 0.8100358
-  rhythmicContrast: 0.8064516
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#010101'
+    - '#583b33'
+    - '#fed1b5'
+    - '#e8ae8d'
+    - '#be7954'
+  brandStrength: 0.8100358
   lightness: 0.2706093
+  saturation: 0.5232975
+  rhythmicContrast: 0.75
 purpose: []
-favicon: null
-name: COSMO
-typography_spectrum: 0.9426523
